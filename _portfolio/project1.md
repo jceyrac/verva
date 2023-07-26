@@ -1,6 +1,6 @@
 ---
 title: Création d'une boutique en ligne
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: assets/img/portfolio/e-commerce-3692440_640.jpg
 alt: Shirts on a hanger
 
@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/e-commerce-3692440_640.jpg
 ---
 
-### Résumé de la formation
+## Résumé de la formation
 
 #### Public
 
@@ -36,6 +36,10 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 
 1 jour (soit 8 heures)
 
+#### Tarif
+
+500 € HT
+
 #### Objectifs de la formation
 <p align="left">
 - Installer et configurer une boutique en ligne sur wordpress
@@ -45,7 +49,7 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 - Installer et configurer une passerelle de paiement en ligne pour la boutique en ligne
 </p>
 
-### Contenu de la formation
+## Contenu de la formation
 
 #### Présentation des principales solutions sur le marché (30 min)
 <p align="left">
@@ -55,6 +59,7 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 </p><p align="left">
 3.  Principales solutions techniques
 </p>
+
 #### Analyse des besoins et choix d’une solution (30 min)
 <p align="left">
 1.  Réalisation d’une matrice de décision
@@ -75,6 +80,7 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 </p><p align="left">
 6.  Finalisation du processus d’installation
 </p>
+
 #### Créer les premiers produits de la boutique (1h15)
 <p align="left">
 1.  Création d’un nouveau produit
@@ -96,18 +102,21 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 </p><p align="left">
 4.  Se mettre dans à la place d’un client et tester la commande d’un produit en ligne
 </p>
+
 #### Présentation des principales passerelles de paiement en ligne par carte sur le marché (30 min)
 <p align="left">
 1.  Pourquoi mettre en place le paiement en ligne
 </p><p align="left">
 2.  Passerelles de paiement en ligne
 </p>
+
 #### Analyse des besoins et choix d’une solution (15 min)
 <p align="left">
 1.  Réalisation d’une matrice de décision
 </p><p align="left">
 2.  Choix de la solution
 </p>
+
 #### Installer et configurer la passerelle de paiement en ligne (1h30)
 <p align="left">
 1.  Rechercher extension dans le répertoire public d’extensions Wordpress
@@ -118,11 +127,12 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 </p><p align="left">
 4.  Configurer la passerelle de paiement
 </p>
+
 #### Tester la commande d’un ou plusieurs produits avec paiement en ligne (30 min)
 
 Se mettre à la place d’un client et tester l’achat d’un produit en ligne
 
-### Organisation de la formation
+## Organisation de la formation
 
 #### Délais et modalité d'accès
 <p align="left">
@@ -138,6 +148,7 @@ Les formations ont lieu:
 </p><p align="left">
 - Dans une salle de réunion d'un co-working proche de chez vous.
 </p>
+
 #### Accessibilité aux personnes en situation de handicap
 
 L'organisme de formation VERVA met en place des actions de formation directement au sein des entreprises.

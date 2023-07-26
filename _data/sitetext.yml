@@ -25,17 +25,15 @@ en: &DEFAULT_EN
         desc: "Vous avez une idée mais ne savez pas comment la concrétiser? Verva réalise votre produit digitale au forfait de bout en bout."
         icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
       - title: "Conseil"
-        desc: "Un consultant de Verva intègre votre équipe en tant que chef de produit digital pour concevoir, réaliser, lancer et maintenir un ou plusieurs de vos produits."
+        desc: "Un consultant Verva intègre votre équipe en tant que chef de produit digital pour concevoir, réaliser, lancer et maintenir un ou plusieurs de vos produits."
         icon: fa fa-suitcase
-      - title: "Formations digitales"
-        desc: "Apprenez à créer et maintenir votre site internet grâce à une des formations poposée par Verva."
-        icon: fas fa-graduation-cap
+
   
   portfolio:
     title: "Formations"
-    text: "Apprenez à créer et maintenir votre site internet grâce à une des formations poposée par Verva."
+    text: "VERVA est un organisme de formation déclaré qui a pour numéro d'activité 32591158759."
     section: portforlio
-    closebutton: "Close Project"
+    closebutton: "Fermer"
 
   #timeline:
   #  title: "Timeline"
@@ -93,64 +91,42 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "L'équipe"
+    text: ""
+    subtext: ""
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Jérôme Ceyrac"
+        role: "Chef de produit digitale et formateur"
+        image: assets/img/team/photo profile.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://jeromeceyrac.com/fr
+            icon: fa fa-globe
+          - url: https://www.linkedin.com/in/jerome-ceyrac-aa4ba22/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+          - url: https://github.com/jceyrac
+            icon: fab fa-github  
+            
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    text: ""
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
+    name: "Nom*"
+    name-validation: "Veuilliez rensegner votre nom."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
+    email-validation: "Veuilliez rensegner votre email."
+    phone: "Numéro de téléphone*"
+    phone-validation: "Veuilliez rensegner votre numéro de téléphone."
     message: "Message*"
-    message-validation: "Please enter a message."
+    message-validation: "Veuillez renseigner votre demande."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Envoyer le message"
 
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://linkedin.com
+      - url: https://www.linkedin.com/in/jerome-ceyrac-aa4ba22/
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/jceyrac
-        icon: "fab fa-github"
   
 en-US:
   <<: *DEFAULT_EN
