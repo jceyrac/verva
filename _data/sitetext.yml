@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Bienvenue sur le site de VERVA!
     text: Votre passerelle numérique
     button: Contact
-    buttonlink: "#services"
+    buttonlink: "#contact"
 
   services:
     title: "Services"
@@ -24,17 +24,17 @@ en: &DEFAULT_EN
       - title: "Création de produits"
         desc: "Vous avez une idée mais ne savez pas comment la concrétiser? Verva réalise votre produit digitale au forfait de bout en bout."
         icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
-      - title: "Formations digitales"
-        desc: "Apprenez à créer et maintenir votre site internet grâce à une des formations poposée par Verva. [Voir le catalogue de formation](https://en.wikipedia.org/wiki/Markdown)"
-        icon: fas fa-graduation-cap
       - title: "Conseil"
         desc: "Un consultant de Verva intègre votre équipe en tant que chef de produit digital pour concevoir, réaliser, lancer et maintenir un ou plusieurs de vos produits."
         icon: fa fa-suitcase
+      - title: "Formations digitales"
+        desc: "Apprenez à créer et maintenir votre site internet grâce à une des formations poposée par Verva."
+        icon: fas fa-graduation-cap
   
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    title: "Formations"
+    text: "Apprenez à créer et maintenir votre site internet grâce à une des formations poposée par Verva."
+    section: portforlio
     closebutton: "Close Project"
 
   #timeline:
