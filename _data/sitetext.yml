@@ -16,6 +16,18 @@ en: &DEFAULT_EN
     button: Contact
     buttonlink: "#contact"
 
+  about:
+    title: "À propos"
+    text: ""
+    body: "VERVA est une entreprise lilloise qui a été fondée par [Jérôme](https://jeromeceyrac.com/fr) en 2018. Forte d'une expérience concrète depuis plusieurs année dans l'industrie, elle offre des **formations** pragmatiques de transformation numérique ainsi que des **services de conseils** à la réalisation de produits digitaux, pour les **indépendants** et les **petites entreprises** de la région. Autant de passerelles que vous pouvez emprunter pour créer, développer et améliorer dans le monde du numérique!"
+    section: about
+
+  portfolio:
+    title: "Formations"
+    text: "VERVA est un organisme de formation déclaré qui a pour numéro d'activité 32591158759."
+    section: portforlio
+    closebutton: "Fermer"
+
   services:
     title: "Services"
     text: ""
@@ -27,13 +39,6 @@ en: &DEFAULT_EN
       - title: "Conseil"
         desc: "Un consultant Verva intègre votre équipe en tant que chef de produit digital pour concevoir, réaliser, lancer et maintenir un ou plusieurs de vos produits."
         icon: fa fa-suitcase
-
-  
-  portfolio:
-    title: "Formations"
-    text: "VERVA est un organisme de formation déclaré qui a pour numéro d'activité 32591158759."
-    section: portforlio
-    closebutton: "Fermer"
 
   #timeline:
   #  title: "Timeline"
@@ -66,12 +71,6 @@ en: &DEFAULT_EN
   #      align: right
   #  end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "À propos"
-    text: ""
-    body: "VERVA est une entreprise lilloise qui a été fondée par [Jérôme](https://jeromeceyrac.com/fr) en 2018. Forte d'une expérience concrète depuis plusieurs année dans l'industrie, elle offre des formations pragmatiques de transformation numérique ainsi que des services de conseils à la réalisation de produits digitaux, pour les **indépendants** et les **petites entreprises** de la région. Autant de passerelles que vous pouvez emprunter pour créer, développer et améliorer dans le monde du numérique!"
-    section: about
-
   clients:
     section: clients
     max-height: 100px
@@ -92,7 +91,7 @@ en: &DEFAULT_EN
 
   team:
     title: "L'équipe"
-    text: "Jérôme, le fondateur et dirigeant de VERVA, réalise actuellement toutes les prestations de formation et de conseil."
+    text: "Jérôme réalise actuellement les prestations de formation et de conseil."
     subtext: ""
     section: team
     people:
