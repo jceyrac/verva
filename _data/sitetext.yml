@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bienvenue sur le site de VERVA!
-    text: Votre passerelle numérique
+    title: Bienvenue sur le site de VERVA
+    text: Votre passerelle vers le numérique
     button: Contact
     buttonlink: "#contact"
 
