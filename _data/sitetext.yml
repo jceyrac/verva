@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bienvenue sur le site de VERVA
-    text: Votre passerelle vers le numérique
+    title: Bienvenue sur le site de VERVA,
+    text: Ma passerelle vers le numérique
     button: Contact
     buttonlink: "#contact"
 
@@ -68,8 +68,8 @@ en: &DEFAULT_EN
 
   about:
     title: "À propos"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: ""
+    body: "VERVA est une entreprise lilloise qui a été fondée par [Jérôme](https://jeromeceyrac.com/fr) en 2018. Forte d'une expérience concrète depuis plusieurs année dans l'industrie, elle offre des formations pragmatiques de transformation numérique ainsi que des services de conseils à la réalisation de produits digitaux, pour les **indépendants** et les **petites entreprises** de la région. Autant de passerelles que vous pouvez emprunter pour créer, développer et améliorer dans le monde du numérique!"
     section: about
 
   clients:
@@ -92,7 +92,7 @@ en: &DEFAULT_EN
 
   team:
     title: "L'équipe"
-    text: ""
+    text: "Jérôme, le fondateur et dirigeant de VERVA, réalise actuellement toutes les prestations de formation et de conseil."
     subtext: ""
     section: team
     people:
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
         social:
           - url: https://jeromeceyrac.com/fr
             icon: fa fa-globe
-          - url: https://www.linkedin.com/in/jerome-ceyrac-aa4ba22/
+          - url: https://www.linkedin.com/in/jerome-ceyrac-aa4ba22/?locale=fr_FR
             icon: fab fa-linkedin-in
           - url: https://github.com/jceyrac
             icon: fab fa-github  
@@ -125,8 +125,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://www.linkedin.com/in/jerome-ceyrac-aa4ba22/
-        icon: "fab fa-linkedin-in"
+      - url: 
+        icon: 
   
 en-US:
   <<: *DEFAULT_EN
