@@ -24,7 +24,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Formations"
-    text: "VERVA est un organisme de formation déclaré qui a pour numéro d'activité 32591158759."
+    text: "VERVA est un organisme de formation déclaré sous le numéro d'activité 32591158759."
     section: portforlio
     closebutton: "Fermer"
 

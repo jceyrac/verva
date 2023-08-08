@@ -1,16 +1,21 @@
 ---
-title:  Création d'un site vitrine
-subtitle: 
+title:  Création et maintenance d'un site vitrine statique
+subtitle: Parfait pour un site de moins de 5 pages avec peu de contenu média et juste un formulaire de contact.
 image: 
 alt: 
 
 caption:
-  title:  Création d'un site vitrine
-  subtitle: Site vitrine pour avoir une présence digitale
+  title:  Création et maintenance d'un site vitrine statique
+  subtitle: Un site très simple mais qui fait l'affaire.
   thumbnail: assets/img/portfolio/hands-gf75402c26_1280.jpg
 ---
 
 ### Résumé de la formation
+
+
+#### Présentation
+
+Un site statique est très simple à mettre en oeuvre et ne nécessite pas beaucoup d'espace de stockage car il n'a pas besoin d'une base de donnée pour stocker son contenu, contrairement à des logiciels de gestion de contenu comme Wordpress. Il est ainsi aussi possible de l'héberger gratuitement.
 
 #### Public
 
