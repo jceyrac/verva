@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   about:
     title: "À propos"
-    text: ""
+    text: "Formations digitales / Création de produits digitaux / Conseil dans la métropole lilloise."
     body: "VERVA est une entreprise lilloise qui a été fondée par [Jérôme](https://jeromeceyrac.com/fr) en 2018. Forte d'une expérience concrète depuis plusieurs année dans l'industrie, elle offre des **formations** pragmatiques de transformation numérique ainsi que des **services de conseils** à la réalisation de produits digitaux, pour les **indépendants** et les **petites entreprises** de la région. Autant de passerelles que vous pouvez emprunter pour créer, développer et améliorer dans le monde du numérique!"
     section: about
 

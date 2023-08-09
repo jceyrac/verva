@@ -14,16 +14,17 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://ma-passerelle-numerique.fr" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/verva" # the subpath of your site, e.g. /blog
 
-title      : Verva
+title      : VERVA
 email      : jceyrac@pm.me #this is also the email contact forms will go to
-description: "Site vitrine de VERVA"
+description: "VERVA;Ma passerelle vers le numérique;Formation et création de sites internet et autres produits digitaux dans la métropole lilloise;Nord;Hauts-deFrance;Chef de produit digital;Product manager;Formation numérique;Site Web;Présence digitale;Entrepreneur;Indépendant"
 author     : Jérôme Ceyrac
-logo       :  
-  path: assets\img\logo text VERVA (white).svg
-  height: 50 #height in px, defaults to 52px
+
+logo       : 'assets\img\logo text VERVA (white).svg'
+#  path: 
+#  height: 50 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -41,3 +42,4 @@ formspree_form_path: "f/xyyqzqjn"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
