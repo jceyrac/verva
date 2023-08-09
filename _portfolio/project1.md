@@ -50,11 +50,11 @@ Un site statique est très simple à mettre en oeuvre et ne nécessite pas beauc
 
 #### Accessibilité aux personnes en situation de handicap
 
-L'organisme de formation VERVA met en place des actions de formation directement au sein des entreprises.
+L'organisme de formation VERVA met en place des actions de formation directement au sein de votre organisation, en visio ou dans des co-workings.
 
-De fait, si des personnes en situation de handicap souhaitent bénéficier de ces actions d'enseignement, l’employeur est tenu d’organiser l’accès à une salle adaptée pour la participation de la personne à la session de formation et de mettre à disposition les équipements nécessaires au déroulement de cette formation. VERVA vérifie cette possible situation directement avec l’employeur du participant concerné.
+Si vous être en situation de handicap et souhaitez bénéficier d'une action de formation au sein de votre organisme ou dans une salle de co-working, VERVA s'assurera de la mise à disposition d'une salle adaptée ainsi que de la mise à disposition des équipements nécessaires à son déroulement.
 
-Dans le cas d’une sollicitation directe par une personne en situation de handicap, il est possible de nous contacter pour que nous étudions les possibilités d’adaptations ou que nous orientions la personne vers un réseau de référent qui pourra prendre en charge cette demande.
+Merci de nous le préciser lors de votre prise de contact afin que nous puissions étudier les possibilités d’adaptations ou de vous orienter vers un réseau de référent qui pourra prendre en charge votre demande.
 
 #### Formateur
 

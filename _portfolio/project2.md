@@ -41,21 +41,27 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 - Installer et configurer une passerelle de paiement en ligne pour la boutique en ligne
 
 
+#### Retours utilisateurs
+⭐⭐⭐⭐ 
+100% des stagiaires ont répondu qu'ils étaient **très satisfaits** de cette formation au questionnaire de satisfaction.
+
 ### Contenu de la formation
 
-#### Présentation des principales solutions sur le marché (30 min)
+#### Boutique en ligne
+
+##### Présentation des principales solutions sur le marché (30 min)
 
 1.  Pourquoi mettre en place une boutique en ligne
 2.  Types de boutique et marché du commerce en ligne
 3.  Principales solutions techniques
 
 
-#### Analyse des besoins et choix d’une solution (30 min)
+##### Analyse des besoins et choix d’une solution (30 min)
 
 1.  Réalisation d’une matrice de décision
 2.  Choix de la solution
 
-#### Installer et configurer l’extension de la boutique en ligne (2h30)
+##### Installer et configurer l’extension de la boutique en ligne (2h30)
 
 1.  Rechercher extension dans le répertoire public d’extensions Wordpress
 2.  Vérifier la compatibilité de la version de Wordpress du site Internet existant avec celle de l’extension. Mise à jour de Wordpress si besoin.
@@ -65,35 +71,36 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 6.  Finalisation du processus d’installation
 
 
-#### Créer les premiers produits de la boutique (1h15)
+##### Créer les premiers produits de la boutique (1h15)
 
 1.  Création d’un nouveau produit
 2.  Ajout des détails clés du produit
 3.  Création des attributs et des produits variables
 4.  Personnalisation de la description succincte du produit
+5.  Mettre en ligne la boutique
 
 
-#### Gérer la boutique, la mettre en ligne la boutique et la tester (1h)
+##### Evaluation des acquis (1h)
 
-1.  Gérer les produits
+1.  Créer, Modifier et supprimer les produits
 2.  Personnaliser la boutique
-3.  Mettre en ligne la boutique
-4.  Se mettre dans à la place d’un client et tester la commande d’un produit en ligne
+3.  Se mettre à la place d’un client et tester la commande d’un produit en ligne
 
+#### Paiement en ligne
 
-#### Présentation des principales passerelles de paiement en ligne par carte sur le marché (30 min)
+##### Présentation des principales passerelles de paiement en ligne par carte sur le marché (30 min)
 
 1.  Pourquoi mettre en place le paiement en ligne
 2.  Passerelles de paiement en ligne
 
 
-#### Analyse des besoins et choix d’une solution (15 min)
+##### Analyse des besoins et choix d’une solution (15 min)
 
 1.  Réalisation d’une matrice de décision
 2.  Choix de la solution
 
 
-#### Installer et configurer la passerelle de paiement en ligne (1h30)
+##### Installer et configurer la passerelle de paiement en ligne (1h30)
 
 1.  Rechercher extension dans le répertoire public d’extensions Wordpress
 2.  Vérifier la compatibilité de la version de Wordpress du site Internet existant avec celle de l’extension. Mise à jour de Wordpress si besoin.
@@ -101,7 +108,7 @@ Cet apprentissage s’adresse aux utilisateurs qui disposent d’un site Interne
 4.  Configurer la passerelle de paiement
 
 
-#### Tester la commande d’un ou plusieurs produits avec paiement en ligne (30 min)
+##### Tester la commande d’un ou plusieurs produits avec paiement en ligne (30 min)
 
 Se mettre à la place d’un client et tester l’achat d’un produit en ligne
 
@@ -121,11 +128,11 @@ Les formations ont lieu:
 
 #### Accessibilité aux personnes en situation de handicap
 
-L'organisme de formation VERVA met en place des actions de formation directement au sein des entreprises.
+L'organisme de formation VERVA met en place des actions de formation directement au sein de votre organisation, en visio ou dans des co-workings.
 
-De fait, si des personnes en situation de handicap souhaitent bénéficier de ces actions d'enseignement, l’employeur est tenu d’organiser l’accès à une salle adaptée pour la participation de la personne à la session de formation et de mettre à disposition les équipements nécessaires au déroulement de cette formation. VERVA vérifie cette possible situation directement avec l’employeur du participant concerné.
+Si vous être en situation de handicap et souhaitez bénéficier d'une action de formation au sein de votre organisme ou dans une salle de co-working, VERVA s'assurera de la mise à disposition d'une salle adaptée ainsi que de la mise à disposition des équipements nécessaires à son déroulement.
 
-Dans le cas d’une sollicitation directe par une personne en situation de handicap, il est possible de nous contacter pour que nous étudions les possibilités d’adaptations ou que nous orientions la personne vers un réseau de référent qui pourra prendre en charge cette demande.
+Merci de nous le préciser lors de votre prise de contact afin que nous puissions étudier les possibilités d’adaptations ou de vous orienter vers un réseau de référent qui pourra prendre en charge votre demande.
 
 #### Formateur
 
@@ -142,5 +149,5 @@ Dans le cas d’une sollicitation directe par une personne en situation de handi
 
 - Auto-évaluation sur les objectifs en amont de la formation
 - Feuilles de présence
-- Formulaires d'évaluation de la formation
+- valuation de la formation
 - Certificat de réalisation de l’action de formation
