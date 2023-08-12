@@ -19,11 +19,11 @@ Un site statique est très simple à mettre en oeuvre et ne nécessite pas beauc
 
 #### Public
 
-À compléter
+Cet apprentissage s’adresse aux utilisateurs qui souhaitent créer un site internet simple de présentation de leur activité. 
 
 #### Prérequis
 
-À compléter
+Disposer d'un ordinateur portable.
 
 #### Durée
 
@@ -35,7 +35,7 @@ Un site statique est très simple à mettre en oeuvre et ne nécessite pas beauc
 
 #### Objectifs de la formation
 
-À compléter
+Créer un site Internet statique de présentaiton de l'activité.
 
 ### Contenu de la formation
 
@@ -45,7 +45,14 @@ Un site statique est très simple à mettre en oeuvre et ne nécessite pas beauc
 
 #### Délais et modalité d'accès
 
-À compléter
+- Prendre contact avec notre organisme par téléphone ou par mail
+- Le délai d’accès est régi par l’agenda de l'organisme de formation (entre 2 et 8 semaines à réception du devis validé).
+
+Les formations ont lieu:
+
+- En présentiel dans votre organisation, sur vos ordinateurs.
+- En visio via les plateformes Meet, Teams, Zoom ou autres outils de partage d'écran.
+- Dans une salle de réunion d'un co-working proche de chez vous.
 
 
 #### Accessibilité aux personnes en situation de handicap
