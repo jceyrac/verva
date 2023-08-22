@@ -19,7 +19,7 @@ baseurl: "/verva" # the subpath of your site, e.g. /blog
 
 title      : VERVA
 email      : jceyrac@pm.me #this is also the email contact forms will go to
-description: "VERVA;Ma passerelle vers le numérique;Formation et création de sites internet et autres produits digitaux dans la métropole lilloise;Nord;Hauts-deFrance;Chef de produit digital;Product manager;Formation numérique;Site Web;Présence digitale;Entrepreneur;Indépendant"
+description: "Formations digitales à Lille et dans la métropole lilloise"
 author     : Jérôme Ceyrac
 
 logo       : 'assets\img\logo text VERVA (white).svg'

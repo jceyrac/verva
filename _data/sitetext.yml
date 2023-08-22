@@ -19,12 +19,13 @@ en: &DEFAULT_EN
   about:
     title: "À propos"
     text: "Formations digitales / Création de produits digitaux / Conseil dans la métropole lilloise."
-    body: "VERVA est une entreprise lilloise qui a été fondée par [Jérôme](https://jeromeceyrac.com/fr) en 2018. Forte d'une expérience concrète depuis plusieurs année dans l'industrie, elle offre des **formations** pragmatiques de transformation numérique ainsi que des **services de conseils** à la réalisation de produits digitaux, pour les **indépendants** et les **petites entreprises** de la région. Autant de passerelles que vous pouvez emprunter pour créer, développer et améliorer dans le monde du numérique!"
+    body: "VERVA propose des formations digitales pour vous accompagner dans la **création et la maintenance** de votre produit digital, que ce soit le **site Internet vitrine** de votre activité, votre **boutique en ligne**, votre **application mobile** ou tout autre produit digital à faire sur mesure. L'organisme propose aussi des formations sur la méthodologie de développement agile et la gestion de produit digital. Autant de passerelles vers le monde du numérique!  <br/><br/> VERVA a été fondée à Lille en 2018 par [Jérôme Ceyrac](https://jeromeceyrac.com/fr) et est déclaré sous le numéro d'activité 32591158759."
+
     section: about
 
   portfolio:
     title: "Formations"
-    text: "VERVA est un organisme de formation déclaré sous le numéro d'activité 32591158759."
+    text: "Vous trouverez ci-dessous le catalogue des formations proposées"
     section: portforlio
     closebutton: "Fermer"
 
@@ -34,7 +35,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Création de produits"
-        desc: "Vous avez une idée mais ne savez pas comment la concrétiser? Verva réalise votre produit digitale au forfait de bout en bout."
+        desc: "Vous avez une idée mais ne savez pas comment la concrétiser? Verva réalise votre produit digital au forfait de bout en bout."
         icon: fas fa-paint-brush #find more at https://fontawesome.com/icons
       - title: "Conseil"
         desc: "Un consultant Verva intègre votre équipe en tant que chef de produit digital pour concevoir, réaliser, lancer et maintenir un ou plusieurs de vos produits."
@@ -91,12 +92,12 @@ en: &DEFAULT_EN
 
   team:
     title: "L'équipe"
-    text: "Jérôme réalise actuellement les prestations de formation et de conseil."
+    text: ""
     subtext: ""
     section: team
     people:
       - name: "Jérôme Ceyrac"
-        role: "Chef de produit digitale et formateur"
+        role: "Chef de produit digital et formateur"
         image: assets/img/team/photo profile.jpg
         social:
           - url: https://jeromeceyrac.com/fr
