@@ -49,7 +49,7 @@ Ce site n'utilise pas de cookies.
 
 {% endif %}
 
-#### Accès à vos données personnelles
+##### Accès à vos données personnelles
 Conformément au RGPD et à la Loi Informatique et Libertés, vous bénéficiez d’un droit d’accès, de modification et de suppression de vos données personnelles. Ces données concernent uniquement les informations que vous avez transmis lors de votre inscription sur le site. En cas de demande de suppression totale, le compte sera anonymisé mais les contenus publiés seront conservés.
 
 Toute demande doit être adressée à l'adresse électionique suivante: <a href="mailto:{{ site.email }}">jceyrac@pm.me</a>.
