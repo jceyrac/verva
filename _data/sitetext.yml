@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bienvenue sur le site de VERVA,
-    text: Ma passerelle vers le numérique
+    title: Bienvenue sur le site de l'organisme de formation Verva
+    text: Votre passerelle pour franchir le pas du numérique
     button: Contact
     buttonlink: "#contact"
 
@@ -123,7 +123,8 @@ en: &DEFAULT_EN
     submit: "Envoyer le message"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Mentions légales"
+    rules: "Règlement intérieur"
     social:
       - url: 
         icon: 
